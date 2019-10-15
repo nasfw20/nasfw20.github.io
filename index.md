@@ -16,3 +16,29 @@ The workshop scope includes (but is not limited to),
 *	Application of NAS/HPO beyond image classification and object detection
 *	Meta learning and transfer learning for computer vision
 *	Learning to learn for computer vision.
+
+# Organizers
+
+### Gaurav Mittal
+
+### Mei Chen 
+
+# Speakers
+
+## Debadeepta Dey
+
+Dr. Debadeepta Dey is a principal researcher in the Adaptive Systems and Interaction (ASI) group led by Dr. Eric Horvitz at Microsoft Research, Redmond. He finished his PhD at the Robotics Institute, Carnegie Mellon University, Pittsburgh, USA, where he was advised by Prof. Drew Bagnell. He does fundamental as well as applied research in machine learning, control and computer vision with applications to autonomous agents in general and robotics in particular.
+
+He is interested in bridging the gap between perception and planning for autonomous ground and aerial vehicles. His interests include decision-making under uncertainty, reinforcement learning, artificial intelligence and machine learning. His recent works include “Efficient Forward Architecture Search” which got accepted at NeurIPS 2019. He graduated in 2007 from Delhi College of Engineering with a Bachelor’s degree in Electrical Engineering. From 2007 to 2010 he was a researcher at the Field Robotics Center, Robotics Institute, Carnegie Mellon University.
+
+## Xia “Ben” Hu 
+
+Dr. Xia Hu is an Assistant Professor in Computer Science and Engineering at Texas A&M University starting from Fall 2015, and is also a member of the Center for Remote Health Technologies and Systems and the Center for the Study of Digital Libraries. He is currently directing the DATA (Data Analytics at Texas A&M) Lab.
+His research involves developing automated and interpretable data mining and machine learning algorithms with theoretical properties to better discover actionable patterns from large-scale, networked, dynamic and sparse data. His research is directly motivated by, and contributes to, applications in social informatics, health informatics and information security. His lab’s work has been featured in Various News Media, such as MIT Tech Review, ACM TechNews, New Scientist, Fast Company, Economic Times. His research is generously supported by federal agencies such as DARPA (XAI, D3M and NGS2) and NSF (CAREER, III, SaTC, CRII, S&AS), and industrial sponsors such as Adobe, Apple, Alibaba and JP Morgan.
+He has several notable works in Automated Machine Learning published at venues such as KDD and ICDM. His lab developed the popular open source library called AutoKeras for automated machine learning. AutoKeras has over 6000 stars and around 1000 forks on GitHub.
+
+## Peter Vajda
+
+# Contact
+
+#### Gaurav Mittal <gamit@microsoft.com>
