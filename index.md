@@ -17,6 +17,8 @@ The workshop scope includes (but is not limited to),
 *	Meta learning and transfer learning for computer vision
 *	Learning to learn for computer vision.
 
+Please refer here for [Submission Instructions].(http://wacv20.wacv.net/index.php/submission-instructions/)
+
 # Timeline
 
 *	Paper Submission Deadline: December 20, 2019
