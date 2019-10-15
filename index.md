@@ -17,6 +17,13 @@ The workshop scope includes (but is not limited to),
 *	Meta learning and transfer learning for computer vision
 *	Learning to learn for computer vision.
 
+# Timeline
+
+*	Paper Submission Deadline: December 20, 2019
+*	Notification to Authors: January 15, 2020
+*	Camera Ready Deadline: February 1, 2020
+
+
 # Organizers
 
 ### Gaurav Mittal <gaurav.mittal@microsoft.com>
