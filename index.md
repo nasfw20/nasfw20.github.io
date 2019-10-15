@@ -19,9 +19,9 @@ The workshop scope includes (but is not limited to),
 
 # Organizers
 
-### Gaurav Mittal
+### Gaurav Mittal <gaurav.mittal@microsoft.com>
 
-### Mei Chen 
+### Mei Chen <mei.chen@microsoft.com>
 
 # Speakers
 
@@ -41,4 +41,4 @@ He has several notable works in Automated Machine Learning published at venues s
 
 # Contact
 
-#### Gaurav Mittal <gamit@microsoft.com>
+#### Gaurav Mittal <gaurav.mittal@microsoft.com>
