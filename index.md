@@ -27,7 +27,7 @@ Please refer here for [Submission Instructions](http://wacv20.wacv.net/index.php
 
 ## CMT Submission Website
 
-[https://cmt3.research.microsoft.com/NASFW2020]{:target="_blank"}
+[https://cmt3.research.microsoft.com/NASFW2020](https://cmt3.research.microsoft.com/NASFW2020){:target="_blank"}
 
 # Organizers
 
