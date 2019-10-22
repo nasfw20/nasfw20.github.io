@@ -25,6 +25,9 @@ Please refer here for [Submission Instructions](http://wacv20.wacv.net/index.php
 *	Notification to Authors: January 15, 2020
 *	Camera Ready Deadline: February 1, 2020
 
+## CMT Submission Website
+
+<https://cmt3.research.microsoft.com/NASFW2020>
 
 # Organizers
 
