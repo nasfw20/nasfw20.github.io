@@ -17,7 +17,9 @@ The workshop scope includes (but is not limited to),
 *	Meta learning and transfer learning for computer vision
 *	Learning to learn for computer vision.
 
-Please refer here for [Submission Instructions](http://wacv20.wacv.net/index.php/submission-instructions/){:target="_blank"}.
+Please refer here for [Submission Instructions](http://wacv20.wacv.net/index.php/submission-instructions/){:target="_blank"}. The reviews will be double blind and there will not be any rebuttal phase. 
+
+Workshop papers will be included in IEEE Xplore.
 
 # Timeline
 
