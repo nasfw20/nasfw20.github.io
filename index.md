@@ -31,12 +31,6 @@ Workshop papers will be included in IEEE Xplore.
 
 [https://cmt3.research.microsoft.com/NASFW2020](https://cmt3.research.microsoft.com/NASFW2020){:target="_blank"}
 
-# Organizers
-
-### Gaurav Mittal <gaurav.mittal@microsoft.com>
-
-### Mei Chen <mei.chen@microsoft.com>
-
 # Speakers
 
 ## Debadeepta Dey
@@ -54,6 +48,12 @@ He has several notable works in Automated Machine Learning published at venues s
 ## Peter Vajda
 
 Dr. Peter Vajda is a Research Scientist working on computer vision at Facebook since 2014. His recent work includes publications such as FBNet and ChamNet which are both focused on finding platform-aware efficient neural network architectures. Before joining Facebook, he was Visiting Assistant Professor in Professor Bernd Girod’s group in Stanford University, Stanford, USA. He was working on personalized multimedia system and mobile visual search. He received M.Sc. in Computer Science from the Vrije Universiteit, Amsterdam, Netherlands and a M.Sc. in Program Designer Mathematician from Eötvös Loránd University, Budapest, Hungary. He completed his Ph.D. with Prof. Touradj Ebrahimi at the Ecole Polytechnique Fédéral de Lausanne (EPFL), Lausanne, Switzerland, 2012.
+
+# Organizers
+
+### Gaurav Mittal <gaurav.mittal@microsoft.com>
+
+### Mei Chen <mei.chen@microsoft.com>
 
 # Contact
 
