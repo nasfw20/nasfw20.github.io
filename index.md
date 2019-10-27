@@ -23,9 +23,9 @@ Workshop papers will be included in IEEE Xplore.
 
 # Timeline
 
-*	Paper Submission Deadline: December 20, 2019
+*	Paper Submission Deadline: December 20, 2019, 11:59:59pm Pacific Standard Time
 *	Notification to Authors: January 15, 2020
-*	Camera Ready Deadline: February 1, 2020
+*	Camera Ready Deadline: February 1, 2020, 11:59:59pm Pacific Standard Time
 
 ## CMT Submission Website
 
